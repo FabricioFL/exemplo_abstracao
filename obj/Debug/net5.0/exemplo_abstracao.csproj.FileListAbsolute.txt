@@ -1,0 +1,16 @@
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\exemplo_abstracao.exe
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\exemplo_abstracao.deps.json
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\exemplo_abstracao.runtimeconfig.json
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\exemplo_abstracao.runtimeconfig.dev.json
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\exemplo_abstracao.dll
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\ref\exemplo_abstracao.dll
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\bin\Debug\net5.0\exemplo_abstracao.pdb
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.csproj.AssemblyReference.cache
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.AssemblyInfoInputs.cache
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.AssemblyInfo.cs
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.csproj.CoreCompileInputs.cache
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.dll
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\ref\exemplo_abstracao.dll
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.pdb
+C:\code\aprendizado\csharp\exemplos\exemplo_abstracao\obj\Debug\net5.0\exemplo_abstracao.genruntimeconfig.cache

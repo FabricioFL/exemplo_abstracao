@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exemplo_abstracao/1.0.0": {
+        "runtime": {
+          "exemplo_abstracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemplo_abstracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
